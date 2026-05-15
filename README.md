@@ -2,7 +2,7 @@
 
 Soy ingeniero de software con una inclinación natural hacia los problemas difíciles. Lo que más disfruto del desarrollo no es escribir código, es pensar: entender un dominio, descomponerlo, y construir algo que funcione de verdad. Por eso siempre estoy explorando tecnologías nuevas, no para coleccionar herramientas, sino para entender cómo funcionan las cosas por dentro.
 
-Tengo experiencia en fintech, en un proyecto Scala para un observatorio astronómico, y hoy llevo mi propia software factory ([SolidCore](https://solidcore.cl)) donde participo en todas las etapas: desde la licitación hasta el soporte. Trabajo con clientes privados y también ganamos licitaciones públicas.
+Tengo experiencia en fintech, en un proyecto Scada para un observatorio astronómico, y hoy llevo mi propia software factory ([SolidCore](https://solidcore.cl)) donde participo en todas las etapas: desde la licitación hasta el soporte. Trabajo con clientes privados y públicos.
 
 ---
 
@@ -14,7 +14,7 @@ Python · TypeScript · Go · Node.js · C++ · Java · Scala
 
 **Infraestructura & datos**
 
-PostgreSQL · Docker · pgvector · REST APIs
+PostgreSQL · Docker · GCP · REST APIs
 
 **Exploración personal**
 
