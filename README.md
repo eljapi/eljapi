@@ -1,6 +1,6 @@
-# Bienvenido, humano
+# Bienvenido, Humano
 
-Soy ingeniero de software con una inclinación natural hacia los problemas difíciles. Lo que más disfruto del desarrollo no es escribir código, es pensar: entender un dominio, descomponerlo, y construir algo que funcione de verdad. Por eso siempre estoy explorando tecnologías nuevas, no para coleccionar herramientas, sino para entender cómo funcionan las cosas por dentro.
+Soy Felipe, un ingeniero de software con una inclinación natural hacia los problemas difíciles. Lo que más disfruto del desarrollo no es escribir código, es pensar: entender un dominio, descomponerlo, y construir algo que funcione de verdad. Por eso siempre estoy explorando tecnologías nuevas, no para coleccionar herramientas, sino para entender cómo funcionan las cosas por dentro.
 
 Tengo más de 4 años de experiencia trabajando en el mundo profesional chileno, he tenido la oportunidad de trabajar con personas increibles a lo largo de mi carrera, para empresas de distintas industrias, tales como financiera, forestal, agronómica, educacional y ahora último, astronómica, en un enorme proyecto SCADA para el control de múltiples telescopios y orquestando observaciones.
 
