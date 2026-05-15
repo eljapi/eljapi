@@ -1,8 +1,10 @@
-# Hola, soy Felipe
+# Bienvenido, humano
 
 Soy ingeniero de software con una inclinación natural hacia los problemas difíciles. Lo que más disfruto del desarrollo no es escribir código, es pensar: entender un dominio, descomponerlo, y construir algo que funcione de verdad. Por eso siempre estoy explorando tecnologías nuevas, no para coleccionar herramientas, sino para entender cómo funcionan las cosas por dentro.
 
-Tengo experiencia en fintech, en un proyecto Scada para un observatorio astronómico, y hoy llevo mi propia software factory ([SolidCore](https://solidcore.cl)) donde participo en todas las etapas: desde la licitación hasta el soporte. Trabajo con clientes privados y públicos.
+Tengo más de 4 años de experiencia trabajando en el mundo profesional chileno, he tenido la oportunidad de trabajar con personas increibles a lo largo de mi carrera, para empresas de distintas industrias, tales como financiera, forestal, agronómica, educacional y ahora último, astronómica, en un enorme proyecto SCADA para el control de múltiples telescopios y orquestando observaciones.
+
+También trabajo de manera independiente, en una startup, [`Solidcore`](solidcore.cl), que surge de mis ganas de emprender y de esa necesidad que tiene la industria pública y privada de que el software se haga bien, con cariño y preocupación porque tenga una utilidad real en el usuario y pueda facilitar su día a día.
 
 ---
 
