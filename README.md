@@ -8,22 +8,6 @@ También trabajo de manera independiente, en una startup, [`Solidcore`](solidcor
 
 ---
 
-## Lo que hago
-
-**Stack principal**
-
-Python · TypeScript · Go · Node.js · C++ · Java · Scala
-
-**Infraestructura & datos**
-
-PostgreSQL · Docker · GCP · REST APIs
-
-**Exploración personal**
-
-LLMs · RAG · Embeddings · CUDA · Redes neuronales (dense, CNN, LSTM)
-
----
-
 ## Proyectos de exploración
 
 Estos son proyectos que hice por curiosidad, para entender algo desde adentro:
