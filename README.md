@@ -1,4 +1,4 @@
-# Bienvenido, Humano
+# Bienvenido, ¿Humano?
 
 Soy Felipe, un ingeniero de software con una inclinación natural hacia los problemas difíciles. Lo que más disfruto del desarrollo no es escribir código, es pensar: entender un dominio, descomponerlo, y construir algo que funcione de verdad. Por eso siempre estoy explorando tecnologías nuevas, no para coleccionar herramientas, sino para entender cómo funcionan las cosas por dentro.
 
